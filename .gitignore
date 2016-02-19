@@ -14,7 +14,7 @@ menpo.egg-info/*
 .ipynb_checkpoints
 *.log
 # Ignore Sphinx docs
-docs/_build/*
+docs/api/_build/*
 # Ignore nfs file mount temp files
 .nfs*
 # Ignore the dist builds
